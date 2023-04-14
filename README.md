@@ -6,7 +6,7 @@
 
 
 
-![](https://github.com/stampFabian/stampFabian/blob/master/cod.gif)
+![](https://github.com/stampFabian/stampFabian/blob/master/coding_grey.gif)
 
 # my stats (private reps not listed):
 
