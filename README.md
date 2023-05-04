@@ -1,13 +1,5 @@
 <div align="center">
 
-
-
-
-
-
-
-
-
 ## my stats [private reps not listed]:
 
 [![](https://raw.githubusercontent.com/stampFabian/stampFabian/master/profile-summary-card-output/date_night/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
