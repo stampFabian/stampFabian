@@ -6,7 +6,6 @@
  
  ### [private reps not listed]
  
- ## STAMP
  ![](https://github.com/stampFabian/stampFabian/blob/master/coding_grey.gif)
 
 </div>
