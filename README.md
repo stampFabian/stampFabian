@@ -1,4 +1,4 @@
-<p align="center">
+<div align="center">
 
 
 
@@ -16,4 +16,5 @@
  
  ## STAMP
  ![](https://github.com/stampFabian/stampFabian/blob/master/coding_grey.gif)
-</p>
+
+</div>
